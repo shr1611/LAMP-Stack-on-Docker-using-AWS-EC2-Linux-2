@@ -1,13 +1,19 @@
 # LAMP-Stack-on-Docker-using-AWS-EC2-Linux-2
 Docker Image for LAMPStack is installed on Ubuntu 14.04, AWS EC2 Linux 2 Instance.
 
- Problem statement
+Dockerhub repository : https://hub.docker.com/repository/docker/shrutijb/lampstack_on_aws_ec2
+
+------------------------------------------------------------------------
+
+Problem statement
 
 » Create a docker image for LAMPS web server – use the EC2 environment created in HW1
 Install docker pre-requisites and docker engine on EC2 instance.
 Launch a container using docker run to ensure everything works.
 Install LAMP stack inside an Ubuntu 14.04 container and ensure everything works.
 Upload at docker hub, create your username at docker hub and upload there. Make sure the image is public usable.
+
+-------
 
 » Steps followed (in brief)
 
